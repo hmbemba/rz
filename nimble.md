@@ -1,5 +1,6 @@
 # Locally install package
 
+- make sure you changed pkg.nimble to your pkgName
 nimble uninstall pkgName ; nimble install
 
 # Publish
