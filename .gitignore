@@ -2,3 +2,6 @@ git.md
 *.exe
 commands.xsh
 *.code-workspace
+ctx_cache/
+*.nims
+*.db
